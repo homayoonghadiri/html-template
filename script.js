@@ -1,2 +1,2 @@
 alert('hello');
-document.write('<br> hello');
+document.write('<br /> hello');
