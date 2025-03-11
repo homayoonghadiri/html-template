@@ -1,1 +1,1 @@
-alert('hello world');
+alert(`i'm a wordpress developer`);
