@@ -14,7 +14,7 @@ For see commits log must type `git log`.
 
 [html-template](https://github.com/homayoonghadiri/html-template)
 
-![document](videos/numerical%20range%20of%20columns%20in%20bootstrap.jpg)
+![document](videos/numerical-range-of-columns-in-bootstrap.jpg)
 
 
 | Syntax | Description |
