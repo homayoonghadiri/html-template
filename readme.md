@@ -1,6 +1,9 @@
 # Installation
 This is Description for **installation**.
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/homayoonghadiri/html-template/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/homayoonghadiri/html-template/)
+
+
 *Lorem ipsum dolor sit, amet consectetur ~~adipisicing~~ elit. Quam voluptatibus nostrum commodi cum at consectetur totam provident, <ins>exercitationem</ins> nemo cumque!*
 
 > Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti, eveniet?
