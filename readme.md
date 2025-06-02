@@ -74,6 +74,6 @@ This is a svg image
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-## Test Verified
+## Test Verified :white_check_mark:
 
-## Test Auto Verified
+## Test Auto Verified :white_check_mark:
